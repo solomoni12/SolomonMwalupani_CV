@@ -20,7 +20,7 @@ What i am good at? (skills)
 
 Work Experience
 ------
--
+
 
 Current Projects
 ------
