@@ -13,7 +13,7 @@ Mzumbe University Morogoro
 What i am good at? (skills)
 ------
 - Laravel(PHP) & Spring Boot (Java) - Work with them to develop secured APIs
-- Angular - work with them to develop Frontend of wed application
+- Angular - work with them to develop Frontend of web application
 - Flutter (language) - Work with it to develop mobile application (Android)
 -MongoDB & MySQL - Work with them to store data
 - Android Studio, and Visual Studio Code as my best development tools
