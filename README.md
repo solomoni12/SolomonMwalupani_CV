@@ -5,23 +5,37 @@ Solomon Mwalupani (Software Developer)
 - Website: www.solo.co.tz
 - Phone Number: +255 789026656/757062585
 
-# Education
 
-## currently; Bsc Information Technology and Systems
-Mzumbe University Morogoro
+Education
+---------
+**Bachelor of Science in Information Technology and Systems-Bsc.ITS (awarded 2023).**
+- Final year project: Farm Production Management System (Laravel(PHP) and Angular):** Website and System - [https://fpms.solo.co.tz]
+- Awarded GRADE "A"
 
 What i am good at? (skills)
 ------
-- Laravel(PHP) & Spring Boot (Java) - Work with them to develop secured APIs
-- Angular - work with them to develop Frontend of web application
-- Flutter (language) - Work with it to develop mobile application (Android)
--MongoDB & MySQL - Work with them to store data
-- Android Studio, and Visual Studio Code as my best development tools
+- Laravel (PHP) - Backend framework to develop Web Application and Secured APIs
+- Spring Boot (Java) - Backend framework to develop secured APIs
+- Angular (JavaScripts & TypeScripts) - Frontend framework to develop Web Application
+- Flutter - Work with it to develop mobile application (Android & iOS)
+- Mysql & MongoDB - Work with them to store data
+- Android Studio and Visual Studio Code as my best development tools
 
 Work Experience
 ------
+**Place:** Pessars Company Limited (Software Solutions)<br/>
+**Position:** Software Developer<br/>
+**Date:** 18, October 2023 – Present<br/>
 
+**Place:** Tronestech company Limited (Software Solutions)<br/>
+**Position:** Software Developer<br/>
+**Date:** August 2023 – October 2023<br/>
 
 Current Projects
 ------
+- **Atlais.org (Laravel):** Web application - [https://atlais.org/]
+- **Atlais.org (Wordpress):** Maintain website - [https://atlais.org/]
+- **Pesaby (Wordpress):** Maintain website - [https://pesaby.com]
+- **Online Birth Cerificate System (Laravel(PHP) and Angular):** Github and System - [https://github.com/solomoni12/OBCS]
 - **Farm Production Management System (Laravel(PHP) and Angular):** Website and System - [https://fpms.solo.co.tz]
+
