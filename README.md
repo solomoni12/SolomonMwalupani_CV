@@ -1,4 +1,4 @@
-Solomon Mwalupani (Web Developer)
+Solomon Mwalupani (Software Developer)
 ======
 #### Develop awesome web applications both frontend and backend, create an web application interface that creates an emotional connection with audiences. Use the latest technologies and tools in delivering web application development and designing across platforms.
 - Email: mwalupani1234@gmail.com
