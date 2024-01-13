@@ -12,7 +12,7 @@ Education
 - Final year project: Farm Production Management System (Laravel(PHP) and Angular):** Website and System - [https://fpms.solo.co.tz]
 - Awarded GRADE "A"
 
-What i am good at? (skills)
+Skills
 ------
 - Laravel (PHP) - Backend framework to develop Web Application and Secured APIs
 - Spring Boot (Java) - Backend framework to develop secured APIs
