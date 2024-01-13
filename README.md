@@ -1,6 +1,6 @@
 Solomon Mwalupani (Web Developer)
 ======
-#### Develop awesome Web & Mobile applications both Android and iOS
+#### Develop awesome web applications both frontend and backend, create an web application interface that creates an emotional connection with audiences. Use the latest technologies and tools in delivering web application development and designing across platforms.
 - Email: mwalupani1234@gmail.com
 - Website: www.solo.co.tz
 - Phone Number: 0789026656
