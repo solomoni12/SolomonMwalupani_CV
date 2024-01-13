@@ -9,7 +9,7 @@ Solomon Mwalupani (Software Developer)
 Education
 ---------
 **Bachelor of Science in Information Technology and Systems-Bsc.ITS (awarded 2023).**
-- Final year project: Farm Production Management System (Laravel(PHP) and Angular):** Website and System - [https://fpms.solo.co.tz]
+- Final year project: Farm Production Management System (Laravel-PHP and Angular):** Website and System - [https://fpms.solo.co.tz]
 - Awarded GRADE "A"
 
 Skills
@@ -37,5 +37,5 @@ Current Projects
 - **Atlais.org (Wordpress):** Maintain website - [https://atlais.org/]
 - **Pesaby (Wordpress):** Maintain website - [https://pesaby.com]
 - **Online Birth Cerificate System (Laravel(PHP) and Angular):** Github and System - [https://github.com/solomoni12/OBCS]
-- **Farm Production Management System (Laravel(PHP) and Angular):** Website and System - [https://fpms.solo.co.tz]
+- **Farm Production Management System (Laravel-PHP and Angular):** Website and System - [https://fpms.solo.co.tz]
 
