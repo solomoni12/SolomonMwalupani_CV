@@ -23,9 +23,13 @@ Skills
 
 Work Experience
 ------
+**Place:** Rahisi Company Limited (Software Solutions)<br/>
+**Position:** Backend Developer<br/>
+**Date:** 07, Feb 2024 – Present<br/>
+
 **Place:** Pessars Company Limited (Software Solutions)<br/>
 **Position:** Software Developer<br/>
-**Date:** 18, October 2023 – Present<br/>
+**Date:** 18, October 2023 – 01, Feb 2024<br/>
 
 **Place:** Tronestech company Limited (Software Solutions)<br/>
 **Position:** Software Developer<br/>
