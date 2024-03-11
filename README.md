@@ -26,6 +26,7 @@ Work Experience
 **Place:** Rahisi Company Limited (Software Solutions)<br/>
 **Position:** Backend Developer<br/>
 **Date:** 07, Feb 2024 – Present<br/>
+**Website:** [https://www.rahisi.africa/]
 
 **Place:** Pessars Company Limited (Software Solutions)<br/>
 **Position:** Software Developer<br/>
