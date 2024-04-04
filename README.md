@@ -19,7 +19,7 @@ Skills
 - Spring Boot (Java) - Backend framework to develop secured APIs
 - Angular (JavaScripts & TypeScripts) - Frontend framework to develop Web Application
 - Flutter - Work with it to develop mobile application (Android & iOS)
-- Mysql,MSsql & MongoDB - Work with them to store data
+- Mysql, MSsql & MongoDB - Work with them to store data
 - Android Studio and Visual Studio Code as my best development tools
 
 Work Experience
