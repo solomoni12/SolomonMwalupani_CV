@@ -10,7 +10,7 @@ Solomon Mwalupani (Software Developer)
 Education
 ---------
 **Bachelor of Science in Information Technology and Systems-Bsc.ITS (awarded 2023).**
-- Final year project: Farm Production Management System (Laravel-PHP and Angular):** Website and System - [https://fpms.solo.co.tz]
+- Final year project: Farm Production Management System (Laravel-PHP and Angular):** Website and System - [https://fpms.solo.co.tz] - [https://github.com/solomoni12/Fpms_Final_Project]
 - Awarded GRADE "A"
 
 Skills
