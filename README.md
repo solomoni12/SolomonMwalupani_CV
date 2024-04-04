@@ -39,6 +39,7 @@ Work Experience
 
 Current Projects
 ------
+- **Rahisi (PHP, Bootstrap & AngularJs):** Backend Developer - [https://www.rahisi.africa/]
 - **Atlais.org (Laravel):** Web application - [https://atlais.org/]
 - **Atlais.org (Wordpress):** Maintain website - [https://atlais.org/]
 - **Pesaby (Wordpress):** Maintain website - [https://pesaby.com]
